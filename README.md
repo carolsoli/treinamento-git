@@ -12,4 +12,4 @@ Alteração da branch develop.
 
 ### Subsubtítulo
 
-Exemplo de criação de uma feature funcional. 
+Exemplo de criação de uma feature funcional.
